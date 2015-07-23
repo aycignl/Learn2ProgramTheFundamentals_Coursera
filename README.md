@@ -1,2 +1,2 @@
 # Learn-to-Program-The-Fundamentals
-Learn to Program: The Fundamentals by Jennifer Campbell, Paul Gries:Lecture notes and solutions
+This repository includes answers, and informations about Aug 19-Oct 28th, 2013 Learn to Program: The Fundamentals course from Coursera by Jennifer Campbell, Paul Gries.
